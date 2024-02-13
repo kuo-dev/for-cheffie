@@ -85,7 +85,7 @@ export default function Page() {
             style={{ width: "200px", height: "200px" }} 
             src="https://media1.tenor.com/m/qMw2--N2wCUAAAAC/tiger-piglet.gif"
           />
-          <div className="my-4 text-4xl font-bold">hehee Yay!!! ily dummie &lt;3333 happy valentines day &gt;.&lt;</div>
+          <div className="my-4 text-4xl font-bold" style={{textAlign:"center"}}>hehee Yay!!! ily dummie &lt;3333 happy valentines day &gt;.&lt;</div>
         </>
       ) : (
         <>
