@@ -93,7 +93,7 @@ export default function Page() {
             className="h-[200px]"
             src="https://gifdb.com/images/high/groovy-tigger-hugging-heart-emoji-2t2jyujqx5oxiaqf.gif"
           />
-          <h1 className="my-4 text-4xl">Will you be my Valentine?</h1>
+          <h1 className="my-4 text-4xl" style={{textAlign:"center"}}><p>My dearest cheffie!</p>Will you be my Valentine?</h1>
           <div className="flex items-center">
             <button
               id="yesbutton"
